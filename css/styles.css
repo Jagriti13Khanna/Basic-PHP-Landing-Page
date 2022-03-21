@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 82.5%;
+}
+
+section {
+    width: 85%;
+    margin: 0 auto;
+}
+
+header {
+    padding-top: 2rem;
+    text-align: center;
+    background-color: rgba(14, 14, 138, 0.089);
+}
+
+section {
+    margin: 0 auto !important;
+    align-content: center;
+    padding: 4rem 0 0rem;
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(14, 14, 138);
+    padding-bottom: 1rem;
+}
+
+h1 {
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+p,
+li,
+td,
+th {
+    font-size: 1.6rem;
+    color: black;
+}
+
+p {
+    padding-bottom: 1.5rem;
+    width: 87%;
+}
+
+a {
+    padding-top: 3rem !important;
+    font-size: 1.8rem;
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(187, 6, 67);
+    text-decoration: underline;
+}
+
+hr {
+    width: 90%;
+    margin: 0.75rem 0rem 2rem;
+    background-color: rgb(14, 14, 138);
+}
+
+hr.wide {
+    height: 10px;
+    width: 100%
+}
+
+h2{
+    padding: 1rem 0;
+}
+
+ul {
+    margin: 1rem 0rem 1rem 10rem;
+}
+
+img {
+    width: 90%;
+    height: auto;
+    margin-top: 2.5rem;
+}
+
+table{
+    width: 85%;
+    text-align: left;
+
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    /* text-align: left; */
+    padding: 1.3rem;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(14, 14, 138, 0.089);
+}
+
+td.text-ct {
+    text-align: center;
+    font-weight: bold;
+}
+
+.evaluation,
+.flex {
+    padding-top: 7rem;
+}
+
+.flex {
+    display: flex;
+    width: 87%;
+    height: 31rem;
+    align-items: center; 
+}
+
+div {
+    margin: 0 auto;
+    width: 45%;
+    align-items: center;
+    border: 1px solid black; 
+    padding: 1.5rem;
+}
+
+div hr {
+    width: 100%
+}
+
+footer {
+    width: 85%;
+    display: flex;
+    padding: 7rem 0 4rem;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.txt-right {
+    text-align: right;
+}
+
