@@ -26,4 +26,4 @@ The styling is done based on CSS flexbox.
 ## Setup
 * Download the zip file of the code.
 * Upload it to a server. You can also run it locally by downloading any open-source cross-platform web server solution stack package like xampp.
-* Open the index.php and voila, the PHP site is up and running.
+* Open the index.php file and voila, the PHP site is up and running.
