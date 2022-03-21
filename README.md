@@ -3,7 +3,7 @@ A simple PHP generated HTML landing page styled using CSS flexbox.
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Languages](#languages)
 * [Setup](#setup)
 
 ## General info
@@ -18,7 +18,7 @@ all done using PHP and HTML.
 
 The styling is done based on CSS flexbox.
 
-## Technologies 
+## Languages
 * HTML5
 * CSS3
 * PHP
