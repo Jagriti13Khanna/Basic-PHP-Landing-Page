@@ -1,4 +1,4 @@
-# Introduction
+# PHP landing page
 A simple PHP generated HTML landing page styled using CSS flexbox.
 
 ## Table of contents
